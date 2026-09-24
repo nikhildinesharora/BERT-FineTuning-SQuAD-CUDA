@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
+wandb/
+bert-base-squadv2-*/
+checkpoint-*/
+*.pt
+*.pth
+*.bin
